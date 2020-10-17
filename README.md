@@ -12,15 +12,7 @@
 
 ### 게시글 상세
 <div style="font-size: 0; line-height: 0">
-  <span style="display: block">
-    <img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/002.jpg" alt="" style="display: block;vertical-align: top" />
-  </span>
-  
-  <span href="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/003.jpg" target="_blank" style="display: block">
-    <img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/003.jpg" alt="" style="display: block;vertical-align: top" />
-  </span>
-  
-  <span href="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/004.jpg" target="_blank" style="display: block">
-    <img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/004.jpg" alt="" style="display: block;vertical-align: top" />
-  </span>
+<img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/002.jpg" alt="" style="display: block;vertical-align: top" />
+<img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/003.jpg" alt="" style="display: block;vertical-align: top" />
+<img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/004.jpg" alt="" style="display: block;vertical-align: top" />
 </div>
