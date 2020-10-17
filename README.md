@@ -11,7 +11,7 @@
 ![](https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/001.jpg)<br>
 
 ### 게시글 상세
-<div style="font-size: 0">
+<div style="font-size: 0; line-height: 0">
   <span style="display: block">
     <img src="https://raw.githubusercontent.com/github-denver/images/master/denver-movie/images/002.jpg" alt="" style="display: block;vertical-align: top" />
   </span>
